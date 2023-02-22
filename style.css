@@ -1,0 +1,66 @@
+@font-face {
+    font-family: "Outfit";
+    src: url(https://fonts.google.com/specimen/Outfit);
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+
+    background-color: hsl(212, 45%, 89%) ;
+    font-family:"Outfit";
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: hsl(218, 44%, 22%);
+    font-size: 20px;
+    font-weight: 700    ;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.flex-container {
+    width : 275px;
+    margin: auto;
+
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 25px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.flexItem {
+    margin: 5%;
+    text-align: center;
+}
+
+.flexItem img {
+    width: 100%;
+    object-fit:scale-down ;
+}
+
+.qrCode {
+    border-radius: 15px;
+}
+
+
+.attribution { 
+    grid-row-start: 3;
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a {
+    color: hsl(228, 45%, 44%); 
+}
