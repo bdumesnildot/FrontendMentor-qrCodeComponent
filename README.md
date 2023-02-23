@@ -11,7 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
@@ -43,10 +42,6 @@ This last solution solved the CORS error issue I encountered on my first code.
 ### Useful resources
 
 - [CORS error documentation](https://developer.mozilla.org/en/docs/Web/HTTP/CORS/Errors) - This helped me to uderstand what was going wrong in my first code
-
-## Author
-
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
 ## Acknowledgments
 
